@@ -11,3 +11,4 @@ Languages : JAVA
 
 ![image](https://user-images.githubusercontent.com/47081187/234220070-db328fda-8848-487d-ad34-5825ceede299.png)
 
+Class presentation slides [Electric Bill Calculator.pdf](https://github.com/iristap/OOP_Project_Watt-Application/files/11344076/Electric.Bill.Calculator.pdf)
